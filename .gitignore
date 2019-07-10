@@ -1,0 +1,4 @@
+/web-front/node_modules
+/web-back/node_modules
+/web-back/package-lock.json
+/web-front/package-lock.json
